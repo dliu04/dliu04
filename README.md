@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, I'm Dylan! 👋
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <!--
 **dliu04/dliu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
