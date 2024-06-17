@@ -13,6 +13,7 @@ Welcome to my page! I love to create and make my ideas become reality ☀️
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js Badge">
 </div>
 
+### My Recent Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
