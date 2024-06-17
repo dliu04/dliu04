@@ -18,7 +18,7 @@ Welcome to my page! I love to create and make my ideas become reality ☀️
 
 <!--END_SECTION:activity-->
 
-### Some Statistics~
+---
 &nbsp;<div align="center">
     ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dliu04&show_icons=true&theme=github_dark)
     <br>
