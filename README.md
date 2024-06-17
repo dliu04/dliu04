@@ -1,5 +1,5 @@
 ## Hello, I'm Dylan! 👋
-Welcome to my page! I love to create and make my ideas become reality ☀️
+Welcome to my page! I love to create and turn my ideas into reality ☀️
 
 ### Languages & Technologies
 <div align="center">
