@@ -1,5 +1,5 @@
 ## Hello, I'm Dylan! 👋
-Welcome to my page! I love to create and turn my ideas into reality ☀️
+Thanks for visiting my GitHub profile. Here, you'll probably see me work on a lot of random things that pop up in my head. Let's get coding!☀️
 
 ### Languages & Technologies
 <div align="center">
