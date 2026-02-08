@@ -1,5 +1,5 @@
 ## Hello, I'm Dylan! 👋
-Welcome to my page! I love to create and make my ideas become reality ☀️
+Thanks for visiting my GitHub profile. Here, you'll probably see me work on a lot of random things that pop up in my head. Let's get coding!☀️
 
 ### Languages & Technologies
 <div align="center">
@@ -15,7 +15,6 @@ Welcome to my page! I love to create and make my ideas become reality ☀️
 
 ---
 &nbsp;<div align="center">
-    ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dliu04&show_icons=true&theme=github_dark)
     <br>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dliu04&show_icons=true&theme=github_dark)](https://github.com/dliu04/github-readme-stats)
 </div>
